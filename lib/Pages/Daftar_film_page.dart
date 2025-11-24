@@ -69,7 +69,7 @@ class DaftarFilmPage extends StatelessWidget {
               ),
             ),
           );
-        },
+        }, //halaman daftar film
       ),
     );
   }
