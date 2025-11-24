@@ -1,4 +1,5 @@
 class Film {
+  //file film
   final String judul;
   final String genre;
   final int harga;
