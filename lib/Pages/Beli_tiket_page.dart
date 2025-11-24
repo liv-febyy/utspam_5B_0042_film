@@ -55,7 +55,7 @@ class _BeliTiketPageState extends State<BeliTiketPage> {
                   fontWeight: FontWeight.bold,
                 ),
               ),
-              Text("Jadwal: $jadwal"),
+              Text("Jadwal: $jadwal"), // Jadwal
               Text("Harga: Rp ${film.harga}"),
               const SizedBox(height: 25),
 
