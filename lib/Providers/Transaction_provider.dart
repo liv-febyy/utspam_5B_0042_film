@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:uts_pemenan_tiket/Models/Transaksi.dart';
 import 'package:uts_pemenan_tiket/Storage/Transaksi_storage.dart';
 
+//transaksi
 class TransactionProvider with ChangeNotifier {
   List<Transaksi> TransaksiList = [];
 
