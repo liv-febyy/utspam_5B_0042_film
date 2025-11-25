@@ -47,7 +47,7 @@ class DaftarFilmPage extends StatelessWidget {
 
                   const Text(
                     "jadwal:",
-                    style: TextStyle(fontWeight: FontWeight.bold),
+                    style: TextStyle(fontWeight: FontWeight.bold), // jadwal
                   ),
 
                   Wrap(
