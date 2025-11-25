@@ -64,7 +64,7 @@ flutter:
        - assets/Posters/BALLERINA.jpg
        - assets/Posters/Wicked.jpg
        - assets/Posters/Jumbo.jpg 
-       #tambah poster
+       #tambah posters
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
