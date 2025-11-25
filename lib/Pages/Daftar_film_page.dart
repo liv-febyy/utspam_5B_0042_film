@@ -73,4 +73,4 @@ class DaftarFilmPage extends StatelessWidget {
       ),
     );
   }
-}
+} // daftar film
