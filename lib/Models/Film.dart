@@ -38,5 +38,5 @@ List<Film> dataFilm = [
     harga: 45000,
     poster: "assets/Posters/Jumbo.jpg",
     jadwal: ["15:05, 18:10, 20:35"],
-  ),
+  ), // list film
 ];
