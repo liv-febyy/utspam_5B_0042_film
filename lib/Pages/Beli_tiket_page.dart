@@ -98,7 +98,9 @@ class _BeliTiketPageState extends State<BeliTiketPage> {
 
               const Text(
                 "Metode Pembayaran:",
-                style: TextStyle(fontWeight: FontWeight.bold),
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                ), // metode pembayaran
               ),
               DropdownButton<String>(
                 value: metode,
