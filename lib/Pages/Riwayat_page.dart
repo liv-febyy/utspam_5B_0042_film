@@ -53,9 +53,11 @@ class _HistoryPageState extends State<RiwayatPage> {
                   trailing: Text(
                     trx.status,
                     style: TextStyle(
-                      color: trx.status == "dibatalkan"
-                          ? Colors.red
-                          : Colors.green,
+                      color:
+                          trx.status ==
+                              "dibatalkan" //
+                          ? const Color.fromARGB(255, 183, 61, 253)
+                          : const Color.fromARGB(255, 76, 175, 167),
                       fontWeight: FontWeight.bold,
                     ),
                   ),
@@ -71,7 +73,7 @@ class _HistoryPageState extends State<RiwayatPage> {
               );
             },
           );
-        },
+        }, //tambahan
       ),
     );
   }
