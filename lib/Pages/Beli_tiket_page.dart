@@ -140,7 +140,7 @@ class _BeliTiketPageState extends State<BeliTiketPage> {
               const SizedBox(height: 30),
 
               Text(
-                "Total: Rp $total",
+                "Total: Rp $total", //toatal
                 style: const TextStyle(
                   fontSize: 22,
                   fontWeight: FontWeight.bold,
