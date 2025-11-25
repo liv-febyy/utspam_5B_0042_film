@@ -28,7 +28,7 @@ List<Film> dataFilm = [
     judul: "Wicked",
     genre: "Fantasy",
     harga: 40000,
-    poster: "assets/Posters/Wicked.jpg",
+    poster: "assets/Posters/Wicked.jpg", //Poster
     jadwal: ["19:10, 21:00, 12:00"],
   ),
 
