@@ -56,6 +56,7 @@ class DaftarFilmPage extends StatelessWidget {
                       return ElevatedButton(
                         onPressed: () {
                           Navigator.pushNamed(
+                            // tambah navigator
                             context,
                             '/beli',
                             arguments: {"film": Film, "jadwal": jam},
