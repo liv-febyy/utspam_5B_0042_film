@@ -84,7 +84,7 @@ class DetailTransactionPage extends StatelessWidget {
 
             const SizedBox(height: 10),
 
-            // Payment Method
+            //metode pembayaran
             Text(
               "Metode Pembayaran: ${transaction.metodePembayaran}",
               style: const TextStyle(fontSize: 16),
